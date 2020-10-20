@@ -1,0 +1,73 @@
+﻿@model Pay.Models.PaymentModel
+<link href="/css/bootstrap.css" rel="stylesheet" />
+
+
+
+<div class="card bg-white" style="margin:auto auto;">
+
+
+
+
+    <center class="p-5 bg-danger">
+
+        <label id="Message" class="h4 text-white">@Model.Message</label>
+    </center>
+
+
+
+
+    <table class="table table-bordered table-striped" style="align-content:center;margin:auto auto 32px auto;">
+        @*<tr>
+            <td style="align-content:center;text-align:right;width:50%;">
+                <label id="lbl1" class="text-dark">کد کاربر</label>
+            </td>
+            <td style="align-content:center;text-align:right;">
+                <label id="Name" class="text-dark">@Model.Code</label>
+            </td>
+
+        </tr>*@
+
+        @*<tr>
+            <td style="align-content:center;text-align:right;">
+                <asp:Label ID="lbl3" class="text-dark">شماره همراه</asp:Label>
+
+            </td>
+            <td style="align-content:center;text-align:right;">
+                <asp:Label ID="Mobile" class="text-dark">@Model.Mobile</asp:Label>
+
+
+            </td>
+
+        </tr>*@
+        <tr>
+            <td style="width:50%; align-content:center;text-align:center;">
+                <label id="lbl4" class="text-dark bg-info">میزان پرداخت</label>
+
+            </td>
+            <td style="width:50%;align-content:center;text-align:center;">
+                <label id="Amount" class="text-dark bg-info">@Model.Amount</label>
+            </td>
+
+        </tr>
+    </table>
+
+    <table class="table" style="width:100%;align-content:center;">
+        <tr>
+            <td style="align-content:center;text-align:center;">
+                <button id="back-btn" class="btn btn-success bg-info" onclick="backToKargozar()">بازگشت به سایت  نام ساز</button>
+            </td>
+        </tr>
+    </table>
+
+</div>
+
+
+<script>
+    var loc;    
+    loc = '@PaymentData.SiteAddress';
+    document.getElementById("back-btn").innerHTML='بازگشت به سایت';
+    
+    function backToKargozar()  {
+        window.location = loc;
+    }
+</script>

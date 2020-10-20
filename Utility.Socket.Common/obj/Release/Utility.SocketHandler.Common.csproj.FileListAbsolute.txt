@@ -1,0 +1,6 @@
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Common\bin\Release\Common.dll
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Common\bin\Release\Common.pdb
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Common\obj\Release\Utility.SocketHandler.Common.csproj.CoreCompileInputs.cache
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Common\obj\Release\Common.dll
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Common\obj\Release\Common.pdb
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Common\obj\Release\Utility.SocketHandler.Common.csprojAssemblyReference.cache

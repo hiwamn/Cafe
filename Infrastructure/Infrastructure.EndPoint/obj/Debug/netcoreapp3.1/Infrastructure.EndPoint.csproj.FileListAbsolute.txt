@@ -1,0 +1,490 @@
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.csprojAssemblyReference.cache
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.csproj.CoreCompileInputs.cache
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.AssemblyInfoInputs.cache
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.AssemblyInfo.cs
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\web.config
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.exe
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.deps.json
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.runtimeconfig.json
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.runtimeconfig.dev.json
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.pdb
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Scrutor.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.ApplicationServices.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Contracts.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Entities.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EF.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\PersianDate.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Utility.Tools.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.ApplicationServices.pdb
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EF.pdb
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Contracts.pdb
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Entities.pdb
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Utility.Tools.pdb
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.RazorTargetAssemblyInfo.cache
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.csproj.CopyComplete
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\staticwebassets\Infrastructure.EndPoint.StaticWebAssets.Manifest.cache
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\staticwebassets\Infrastructure.EndPoint.StaticWebAssets.xml
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.pdb
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.genruntimeconfig.cache
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\CorePush.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Projects\Zigorat\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.csprojAssemblyReference.cache
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.AssemblyInfoInputs.cache
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.AssemblyInfo.cs
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.pdb
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\web.config
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.exe
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.deps.json
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.runtimeconfig.json
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.runtimeconfig.dev.json
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.pdb
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\CorePush.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Scrutor.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.ApplicationServices.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Contracts.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Entities.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EF.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\PersianDate.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Utility.Tools.dll
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.ApplicationServices.pdb
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EF.pdb
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Contracts.pdb
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Entities.pdb
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Utility.Tools.pdb
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.RazorTargetAssemblyInfo.cache
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.csproj.CopyComplete
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\staticwebassets\Infrastructure.EndPoint.StaticWebAssets.Manifest.cache
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\staticwebassets\Infrastructure.EndPoint.StaticWebAssets.xml
+C:\Users\Ali\Documents\NicodeProject\Cafe\Cafe\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.genruntimeconfig.cache
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\web.config
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\appsettings.json
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.exe
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.deps.json
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.runtimeconfig.json
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.runtimeconfig.dev.json
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.pdb
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\CorePush.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Scrutor.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.ApplicationServices.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Contracts.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Entities.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EF.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\PersianDate.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Utility.Tools.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.ApplicationServices.pdb
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Utility.Tools.pdb
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EF.pdb
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Contracts.pdb
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Entities.pdb
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.csprojAssemblyReference.cache
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.AssemblyInfoInputs.cache
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.AssemblyInfo.cs
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.csproj.CoreCompileInputs.cache
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.MvcApplicationPartsAssemblyInfo.cs
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.MvcApplicationPartsAssemblyInfo.cache
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.RazorTargetAssemblyInfo.cache
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.csproj.CopyComplete
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\staticwebassets\Infrastructure.EndPoint.StaticWebAssets.Manifest.cache
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\staticwebassets\Infrastructure.EndPoint.StaticWebAssets.xml
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.pdb
+D:\NiCode Project\Cafe\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.genruntimeconfig.cache
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\web.config
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.exe
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.deps.json
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.runtimeconfig.json
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.runtimeconfig.dev.json
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.pdb
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\CorePush.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Scrutor.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.ApplicationServices.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Contracts.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Entities.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EF.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\PersianDate.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Utility.Tools.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.ApplicationServices.pdb
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Utility.Tools.pdb
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EF.pdb
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Contracts.pdb
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Entities.pdb
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.csprojAssemblyReference.cache
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.AssemblyInfoInputs.cache
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.AssemblyInfo.cs
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.csproj.CoreCompileInputs.cache
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.RazorTargetAssemblyInfo.cache
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.csproj.CopyComplete
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\staticwebassets\Infrastructure.EndPoint.StaticWebAssets.Manifest.cache
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\staticwebassets\Infrastructure.EndPoint.StaticWebAssets.xml
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.pdb
+C:\Users\Hirad\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.genruntimeconfig.cache
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\web.config
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.exe
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.deps.json
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.runtimeconfig.json
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.runtimeconfig.dev.json
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EndPoint.pdb
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\CorePush.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Scrutor.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.ApplicationServices.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Contracts.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Entities.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EF.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\PersianDate.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Utility.Tools.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.ApplicationServices.pdb
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Utility.Tools.pdb
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Infrastructure.EF.pdb
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Contracts.pdb
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\bin\Debug\netcoreapp3.1\Core.Entities.pdb
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.csprojAssemblyReference.cache
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.AssemblyInfoInputs.cache
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.AssemblyInfo.cs
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.csproj.CoreCompileInputs.cache
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.RazorTargetAssemblyInfo.cache
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.csproj.CopyComplete
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\staticwebassets\Infrastructure.EndPoint.StaticWebAssets.Manifest.cache
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\staticwebassets\Infrastructure.EndPoint.StaticWebAssets.xml
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.pdb
+C:\Users\3849824527\Desktop\cafelanda-backend\Infrastructure\Infrastructure.EndPoint\obj\Debug\netcoreapp3.1\Infrastructure.EndPoint.genruntimeconfig.cache

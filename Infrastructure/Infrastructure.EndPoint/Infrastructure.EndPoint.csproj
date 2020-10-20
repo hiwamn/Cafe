@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <IsTransformWebConfigDisabled>true</IsTransformWebConfigDisabled>
+    <EnableMSDeployAppOffline>true</EnableMSDeployAppOffline>
+    <UserSecretsId>82a4b26d-10e3-4aa4-9fb0-ad02f8936c78</UserSecretsId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Migrations1\**" />
+    <Content Remove="Migrations1\**" />
+    <EmbeddedResource Remove="Migrations1\**" />
+    <None Remove="Migrations1\**" />
+  </ItemGroup>
+  <ItemGroup>    
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.4.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="5.1.1" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\Core.ApplicationServices\Core.ApplicationServices.csproj" />
+    <ProjectReference Include="..\..\Utility.Tools\Utility.Tools.csproj" />
+    <ProjectReference Include="..\Infrastructure.EF\Infrastructure.EF.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PersianDate">
+      <HintPath>bin\Debug\netcoreapp2.2\PersianDate.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+ 
+
+</Project>

@@ -1,0 +1,68 @@
+C:\Projects\Zigorat\Cafe\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.ApplicationServices.deps.json
+C:\Projects\Zigorat\Cafe\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.ApplicationServices.dll
+C:\Projects\Zigorat\Cafe\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.ApplicationServices.pdb
+C:\Projects\Zigorat\Cafe\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.Contracts.dll
+C:\Projects\Zigorat\Cafe\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.Entities.dll
+C:\Projects\Zigorat\Cafe\Core\Core.ApplicationServices\bin\Release\netstandard2.1\PersianDate.dll
+C:\Projects\Zigorat\Cafe\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Utility.Tools.dll
+C:\Projects\Zigorat\Cafe\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Utility.Tools.pdb
+C:\Projects\Zigorat\Cafe\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.Contracts.pdb
+C:\Projects\Zigorat\Cafe\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.Entities.pdb
+C:\Projects\Zigorat\Cafe\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.csprojAssemblyReference.cache
+C:\Projects\Zigorat\Cafe\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Projects\Zigorat\Cafe\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.AssemblyInfoInputs.cache
+C:\Projects\Zigorat\Cafe\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.AssemblyInfo.cs
+C:\Projects\Zigorat\Cafe\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.csproj.CopyComplete
+C:\Projects\Zigorat\Cafe\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.dll
+C:\Projects\Zigorat\Cafe\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.pdb
+D:\NiCode Project\Cafe\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.pdb
+D:\NiCode Project\Cafe\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.csprojAssemblyReference.cache
+D:\NiCode Project\Cafe\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.AssemblyInfoInputs.cache
+D:\NiCode Project\Cafe\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.AssemblyInfo.cs
+D:\NiCode Project\Cafe\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.csproj.CoreCompileInputs.cache
+D:\NiCode Project\Cafe\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.ApplicationServices.deps.json
+D:\NiCode Project\Cafe\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.ApplicationServices.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.ApplicationServices.pdb
+D:\NiCode Project\Cafe\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.Contracts.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.Entities.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\PersianDate.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Utility.Tools.dll
+D:\NiCode Project\Cafe\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.Contracts.pdb
+D:\NiCode Project\Cafe\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.Entities.pdb
+D:\NiCode Project\Cafe\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Utility.Tools.pdb
+D:\NiCode Project\Cafe\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.csproj.CopyComplete
+C:\Users\Hirad\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.ApplicationServices.deps.json
+C:\Users\Hirad\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.ApplicationServices.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.ApplicationServices.pdb
+C:\Users\Hirad\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.Contracts.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.Entities.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\PersianDate.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Utility.Tools.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.Contracts.pdb
+C:\Users\Hirad\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.Entities.pdb
+C:\Users\Hirad\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Utility.Tools.pdb
+C:\Users\Hirad\Desktop\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.csprojAssemblyReference.cache
+C:\Users\Hirad\Desktop\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\Hirad\Desktop\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.AssemblyInfo.cs
+C:\Users\Hirad\Desktop\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\Hirad\Desktop\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.csproj.CopyComplete
+C:\Users\Hirad\Desktop\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.dll
+C:\Users\Hirad\Desktop\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.pdb
+C:\Users\3849824527\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.ApplicationServices.deps.json
+C:\Users\3849824527\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.ApplicationServices.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.ApplicationServices.pdb
+C:\Users\3849824527\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.Contracts.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.Entities.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\PersianDate.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Utility.Tools.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.Contracts.pdb
+C:\Users\3849824527\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Core.Entities.pdb
+C:\Users\3849824527\Desktop\cafelanda-backend\Core\Core.ApplicationServices\bin\Release\netstandard2.1\Utility.Tools.pdb
+C:\Users\3849824527\Desktop\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.csprojAssemblyReference.cache
+C:\Users\3849824527\Desktop\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\3849824527\Desktop\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.AssemblyInfo.cs
+C:\Users\3849824527\Desktop\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\3849824527\Desktop\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.csproj.CopyComplete
+C:\Users\3849824527\Desktop\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.dll
+C:\Users\3849824527\Desktop\cafelanda-backend\Core\Core.ApplicationServices\obj\Release\netstandard2.1\Core.ApplicationServices.pdb

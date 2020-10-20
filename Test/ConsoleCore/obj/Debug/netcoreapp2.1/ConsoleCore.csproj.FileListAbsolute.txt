@@ -1,0 +1,227 @@
+C:\Users\Developer151\source\repos\Amlak\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.deps.json
+C:\Users\Developer151\source\repos\Amlak\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.runtimeconfig.json
+C:\Users\Developer151\source\repos\Amlak\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.runtimeconfig.dev.json
+C:\Users\Developer151\source\repos\Amlak\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.dll
+C:\Users\Developer151\source\repos\Amlak\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.pdb
+C:\Users\Developer151\source\repos\Amlak\ConsoleCore\bin\Debug\netcoreapp2.1\Extensions.dll
+C:\Users\Developer151\source\repos\Amlak\ConsoleCore\bin\Debug\netcoreapp2.1\Utility.dll
+C:\Users\Developer151\source\repos\Amlak\ConsoleCore\bin\Debug\netcoreapp2.1\PersianDate.dll
+C:\Users\Developer151\source\repos\Amlak\ConsoleCore\bin\Debug\netcoreapp2.1\Utility.pdb
+C:\Users\Developer151\source\repos\Amlak\ConsoleCore\bin\Debug\netcoreapp2.1\Extensions.pdb
+C:\Users\Developer151\source\repos\Amlak\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.csprojAssemblyReference.cache
+C:\Users\Developer151\source\repos\Amlak\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.csproj.CoreCompileInputs.cache
+C:\Users\Developer151\source\repos\Amlak\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.AssemblyInfoInputs.cache
+C:\Users\Developer151\source\repos\Amlak\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.AssemblyInfo.cs
+C:\Users\Developer151\source\repos\Amlak\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.csproj.CopyComplete
+C:\Users\Developer151\source\repos\Amlak\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.dll
+C:\Users\Developer151\source\repos\Amlak\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.pdb
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.deps.json
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.runtimeconfig.json
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.runtimeconfig.dev.json
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.dll
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.pdb
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Extensions.dll
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Utility.dll
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\PersianDate.dll
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Utility.pdb
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Extensions.pdb
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.csprojAssemblyReference.cache
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.AssemblyInfoInputs.cache
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.AssemblyInfo.cs
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.csproj.CopyComplete
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.dll
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.pdb
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ApplicationServices.dll
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\CoreExtension.dll
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dal.Ef.dll
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Contract.dll
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Entities.dll
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dto.dll
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ApplicationServices.pdb
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\CoreExtension.pdb
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dal.Ef.pdb
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Contract.pdb
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Entities.pdb
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dto.pdb
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.deps.json
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.runtimeconfig.json
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.runtimeconfig.dev.json
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.dll
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.pdb
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ApplicationServices.dll
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\CoreExtension.dll
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dal.Ef.dll
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Contract.dll
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Entities.dll
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dto.dll
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Extensions.dll
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Utility.dll
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\PersianDate.dll
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ApplicationServices.pdb
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\CoreExtension.pdb
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dal.Ef.pdb
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Utility.pdb
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Contract.pdb
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Entities.pdb
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dto.pdb
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Extensions.pdb
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.csprojAssemblyReference.cache
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.AssemblyInfoInputs.cache
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.AssemblyInfo.cs
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.csproj.CopyComplete
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.dll
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.pdb
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.Views.dll
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.Views.pdb
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.dll
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.pdb
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.Views.dll
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.Views.pdb
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.dll
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.pdb
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.Views.dll
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.Views.pdb
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.deps.json
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.runtimeconfig.json
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.runtimeconfig.dev.json
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.dll
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.pdb
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ApplicationServices.dll
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\CoreExtension.dll
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dal.Ef.dll
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Contract.dll
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Entities.dll
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dto.dll
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Extensions.dll
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.dll
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Utility.dll
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\PersianDate.dll
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ApplicationServices.pdb
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\CoreExtension.pdb
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dal.Ef.pdb
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.pdb
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Utility.pdb
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Contract.pdb
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Entities.pdb
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dto.pdb
+C:\D\Backup\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Extensions.pdb
+C:\D\Backup\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.csprojAssemblyReference.cache
+C:\D\Backup\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.csproj.CoreCompileInputs.cache
+C:\D\Backup\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.AssemblyInfoInputs.cache
+C:\D\Backup\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.AssemblyInfo.cs
+C:\D\Backup\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.csproj.CopyComplete
+C:\D\Backup\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.dll
+C:\D\Backup\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.pdb
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.Views.dll
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.Views.pdb
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.deps.json
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.runtimeconfig.json
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.runtimeconfig.dev.json
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.dll
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.pdb
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ApplicationServices.dll
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\CoreExtension.dll
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dal.Ef.dll
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Contract.dll
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Entities.dll
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dto.dll
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Extensions.dll
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.dll
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Utility.dll
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\PersianDate.dll
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ApplicationServices.pdb
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\CoreExtension.pdb
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dal.Ef.pdb
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.pdb
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Utility.pdb
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Contract.pdb
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Entities.pdb
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dto.pdb
+D:\Projects\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Extensions.pdb
+D:\Projects\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.csprojAssemblyReference.cache
+D:\Projects\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.csproj.CoreCompileInputs.cache
+D:\Projects\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.AssemblyInfoInputs.cache
+D:\Projects\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.AssemblyInfo.cs
+D:\Projects\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.csproj.CopyComplete
+D:\Projects\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.dll
+D:\Projects\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.pdb
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Province.json
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.Views.dll
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.Views.pdb
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\web.config
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.deps.json
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.runtimeconfig.json
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.runtimeconfig.dev.json
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.dll
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.pdb
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ApplicationServices.dll
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\CoreExtension.dll
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dal.Ef.dll
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Contract.dll
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Entities.dll
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dto.dll
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Extensions.dll
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.dll
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Utility.dll
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\PersianDate.dll
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ApplicationServices.pdb
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\CoreExtension.pdb
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dal.Ef.pdb
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.pdb
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Utility.pdb
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Contract.pdb
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Entities.pdb
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dto.pdb
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Extensions.pdb
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.csprojAssemblyReference.cache
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.AssemblyInfoInputs.cache
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.AssemblyInfo.cs
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.csproj.CopyComplete
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.dll
+C:\Users\Developer151\source\repos\Mountain\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.pdb
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\web.config
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Developer151\source\repos\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Province.json
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.Views.dll
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.Views.pdb
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.deps.json
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.runtimeconfig.json
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.runtimeconfig.dev.json
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.dll
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ConsoleCore.pdb
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ApplicationServices.dll
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\CoreExtension.dll
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dal.Ef.dll
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Contract.dll
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Entities.dll
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dto.dll
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Extensions.dll
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.dll
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Utility.dll
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\PersianDate.dll
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\ApplicationServices.pdb
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\CoreExtension.pdb
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dal.Ef.pdb
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Pay.pdb
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Utility.pdb
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Contract.pdb
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Domain.Entities.pdb
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Dto.pdb
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Extensions.pdb
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.csprojAssemblyReference.cache
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.csproj.CoreCompileInputs.cache
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.AssemblyInfoInputs.cache
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.AssemblyInfo.cs
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.csproj.CopyComplete
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.dll
+D:\Projects\Mountain mirazai\Mountain\ConsoleCore\obj\Debug\netcoreapp2.1\ConsoleCore.pdb
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\web.config
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\Province.json
+C:\Users\3849824527\Desktop\Mountain\ConsoleCore\bin\Debug\netcoreapp2.1\appsettings.json

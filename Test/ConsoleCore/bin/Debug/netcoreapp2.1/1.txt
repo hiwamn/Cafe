@@ -1,0 +1,1 @@
+{"CityId":4,"HasImage":false,"IsAdvertisement":false,"IsForExchange":false,"IsImmediate":false,"IsSpecial":false,"Keyword":"","MaxPrice":100000000,"MinPrice":0,"ProductCategoryId":2,"RemoveAgreemental":false,"UserId":"59ec8360-79fd-461d-3ae6-08d756b503b3","blockNumber":1}

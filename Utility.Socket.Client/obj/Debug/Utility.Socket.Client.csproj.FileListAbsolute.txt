@@ -1,0 +1,10 @@
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Client\bin\Debug\Client.exe.config
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Client\bin\Debug\Client.exe
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Client\bin\Debug\Client.pdb
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Client\bin\Debug\Common.dll
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Client\bin\Debug\Common.pdb
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Client\obj\Debug\Utility.Socket.Client.csprojAssemblyReference.cache
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Client\obj\Debug\Utility.Socket.Client.csproj.CoreCompileInputs.cache
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Client\obj\Debug\Utility.Socket.Client.csproj.CopyComplete
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Client\obj\Debug\Client.exe
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Client\obj\Debug\Client.pdb

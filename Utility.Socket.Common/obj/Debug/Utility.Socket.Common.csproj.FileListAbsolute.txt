@@ -1,0 +1,5 @@
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Common\bin\Debug\Common.dll
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Common\bin\Debug\Common.pdb
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Common\obj\Debug\Utility.Socket.Common.csproj.CoreCompileInputs.cache
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Common\obj\Debug\Common.dll
+C:\Projects\Zigorat\Football\Utility\Utility.Socket\Utility.Socket.Common\obj\Debug\Common.pdb

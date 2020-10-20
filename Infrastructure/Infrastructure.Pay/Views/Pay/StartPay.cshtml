@@ -1,0 +1,211 @@
+﻿<html>
+<head>
+    <link href="~/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <style>
+        body {
+            background-color: white;
+        }
+
+        h1 {
+            color: red;
+            margin-left: 150px;
+        }
+
+        .auto-style1 {
+            color: #0000FF;
+            text-align: right;
+        }
+    </style>
+
+    <style>
+        .Error {
+            background-color: burlywood;
+        }
+
+
+
+        .Error {
+            font-size: xx-large;
+            color: #ff0000;
+        }
+    </style>
+
+    <meta name="viewport" content="width=1024">
+
+    <style>
+        .btn-Hiwa {
+            color: #fff;
+            background-color: #28a745;
+            border-color: #28a745;
+            font-size: xx-large;
+            font-family: 'B Yekan';
+            direction: rtl;
+            align-items: center;
+            text-align: center;
+        }
+
+            .btn-Hiwa:hover {
+                color: #fff;
+                background-color: #218838;
+                border-color: #1e7e34;
+                font-size: xx-large;
+            }
+
+            .btn-Hiwa:focus, .btn-success.focus {
+                box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.5);
+                font-size: xx-large;
+            }
+
+            .btn-Hiwa.disabled, .btn-Hiwa:disabled {
+                color: #fff;
+                background-color: #28a745;
+                border-color: #28a745;
+                font-size: xx-large;
+            }
+
+            .btn-Hiwa:not(:disabled):not(.disabled):active, .btn-Hiwa:not(:disabled):not(.disabled).active,
+            .show > .btn-Hiwa.dropdown-toggle {
+                color: #fff;
+                background-color: #1e7e34;
+                border-color: #1c7430;
+                font-size: xx-large;
+            }
+
+                .btn-Hiwa:not(:disabled):not(.disabled):active:focus, .btn-Hiwa:not(:disabled):not(.disabled).active:focus,
+                .show > .btn-Hiwa.dropdown-toggle:focus {
+                    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.5);
+                    font-size: xx-large;
+                }
+    </style>
+
+    <style>
+        .table-bordered {
+            border: 1px solid #dee2e6;
+        }
+
+            .table-bordered th,
+            .table-bordered td {
+                border: 1px solid #dee2e6;
+            }
+
+            .table-bordered thead th,
+            .table-bordered thead td {
+                border-bottom-width: 2px;
+            }
+    </style>
+
+    <style>
+        .table-success,
+        .table-success > th,
+        .table-success > td {
+            background-color: #c3e6cb;
+        }
+
+        .table-hover .table-success:hover {
+            background-color: #b1dfbb;
+        }
+
+            .table-hover .table-success:hover > td,
+            .table-hover .table-success:hover > th {
+                background-color: #b1dfbb;
+            }
+    </style>
+
+    <style>
+        .table-primary,
+        .table-primary > th,
+        .table-primary > td {
+            background-color: #b8daff;
+        }
+
+        .table-hover .table-primary:hover {
+            background-color: #9fcdff;
+        }
+
+            .table-hover .table-primary:hover > td,
+            .table-hover .table-primary:hover > th {
+                background-color: #9fcdff;
+            }
+    </style>
+
+    <style>
+        div {
+            width: 100%;
+            margin: 0px auto;
+            align-content: center;
+            font-size: xx-large;
+        }
+    </style>
+    <style>
+        .main {
+            color: blue;
+            font-family: 'B Yekan';
+        }
+    </style>
+
+
+
+    @*@media (max-width: 768px) {
+        div {
+        margin:0px auto;
+
+        font-size:medium;
+        }
+
+        .btn-Hiwa{
+        font-size:medium;
+        }
+        }*@
+
+    <div style="margin:0px auto;">
+
+
+
+        <table class="table" style="width:100%;align-content:center;text-align:center;">
+            <tr>
+                <td style="align-content:center;text-align:center">
+                    <img id="Image1" style="height:80px; width:80px;align-content:center;" src="~/images/ic_logo.png" />
+
+                </td>
+            </tr>
+
+            <tr>
+                <td style="align-content:center;text-align:center;font-family:B Yekan;">
+                    <p> سیستم بررسی ویزای آلمان </p>
+
+                </td>
+            </tr>
+
+        </table>
+
+
+
+        <table class="table" style="width:100%;align-content:center;text-align:center;">
+            <tr>
+                <td style="align-content:center;text-align:center;">
+                    <label id="Message" class="Error" style="font-family:B Yekan;">سامانه قادر به اتصال به درگاه نیست</label>
+
+                </td>
+            </tr>
+        </table>
+
+        <br /><br />
+        <table class="table" style="width:100%;align-content:center;">
+            <tr>
+                <td style="align-content:center;text-align:center;">
+                    <button class="btn-Hiwa" onclick="backToKargozar()">بازگشت به موبایل </button>
+                </td>
+            </tr>
+        </table>
+
+    </div>
+</body>
+</html>
+<script>
+
+    function backToKargozar() {
+        window.location = "intent:#Intent;action=schemas.ir.erenco.germany.PassportServicesActivity;end";
+    }
+</script>

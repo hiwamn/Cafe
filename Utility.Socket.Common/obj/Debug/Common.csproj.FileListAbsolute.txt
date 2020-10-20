@@ -1,0 +1,6 @@
+C:\Users\3849824527\Desktop\GameLibrary\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\3849824527\Desktop\GameLibrary\Common\bin\Debug\Common.dll
+C:\Users\3849824527\Desktop\GameLibrary\Common\bin\Debug\Common.pdb
+C:\Users\3849824527\Desktop\GameLibrary\Common\obj\Debug\Common.dll
+C:\Users\3849824527\Desktop\GameLibrary\Common\obj\Debug\Common.pdb
+C:\Users\3849824527\Desktop\GameLibrary\Common\obj\Debug\Common.csprojAssemblyReference.cache
